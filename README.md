@@ -1,3 +1,3 @@
-# Ruby on Rails test
+# Ruby on Rails toy app
 
-This is a test for a RoR app
+Express app using scaffolding to create "user" and "micropost" resources.
